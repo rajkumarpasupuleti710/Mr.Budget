@@ -20,3 +20,8 @@ Frontend: HTML5, CSS3, JavaScript
 Backend: PHP
 Database: MySQL
 Version Control: Git
+
+Installation
+
+Clone the repository:
+git clone https://github.com/rajkumarpasupuleti710/Mr.Budget.git
