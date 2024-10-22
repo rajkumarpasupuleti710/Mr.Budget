@@ -1,4 +1,5 @@
 Mr. Budget
+
 Mr. Budget is a simple and intuitive web-based budgeting application designed to help users manage their finances efficiently. This tool allows users to create financial plans, track expenses, and maintain control over their spending habits. With Mr. Budget, users can easily set budgets, view detailed reports, and stay on top of their financial goals.
 
 Features
