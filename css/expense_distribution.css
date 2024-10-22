@@ -1,0 +1,220 @@
+@media(min-width:320px){
+        .cnt{
+        margin-top:10%;
+        margin-left:-1%;
+        margin-right:4%;
+    }
+    .p1{
+        text-align:left;
+    }
+    .p2{
+    margin-top:-10%;
+    text-align:right;
+    }
+    .pn1{
+        border-width:2px;
+        width:90%;
+        margin-top:10%;
+        margin-bottom:15%;
+        margin-left:8%;
+        margin-right:5%;
+    }
+    
+    .panel-heading{
+            text-align: center;
+            font-size: 150%;
+        }
+    .btn-outline-primary{
+            
+            color: darkcyan;
+            border-color: darkcyan;
+            background-color: white;
+    }
+    .btn-outline-primary:hover{
+            background-color: darkcyan;
+            color: white;
+    }
+    footer{
+            position: fixed;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            padding: 0.5rem;
+            background-color: black;
+            color: white;
+            text-align: center;
+    }
+    }
+    @media(min-width:576px){
+        .cnt{
+        margin-top:5%;
+    }
+    .p1{
+        text-align:left;
+    }
+    .p2{
+    margin-top:-10%;
+    text-align:right;
+    }
+    .pn1{
+        border-width:2px;
+        width:50%;
+        margin-top:13%;
+        margin-bottom:-5%;
+        margin-left:25%;
+    }
+    
+    .panel-heading{
+            text-align: center;
+            font-size: 150%;
+        }
+    .btn-outline-primary{
+            
+            color: darkcyan;
+            border-color: darkcyan;
+            background-color: white;
+    }
+    .btn-outline-primary:hover{
+            background-color: darkcyan;
+            color: white;
+    }
+    footer{
+            position: fixed;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            padding: 0.5rem;
+            background-color: black;
+            color: white;
+            text-align: center;
+    }
+    }
+    @media(min-width:768px){
+        .cnt{
+        margin-top:5%;
+    }
+    .p1{
+        text-align:left;
+    }
+    .p2{
+    margin-top:-10%;
+    text-align:right;
+    }
+    .pn1{
+        border-width:2px;
+        width:47%;
+        margin-top:4%;
+        margin-bottom:5%;
+    
+    }
+    
+    .panel-heading{
+            text-align: center;
+            font-size: 150%;
+        }
+    .btn-outline-primary{
+            
+            color: darkcyan;
+            border-color: darkcyan;
+            background-color: white;
+    }
+    .btn-outline-primary:hover{
+            background-color: darkcyan;
+            color: white;
+    }
+    footer{
+            position: fixed;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            padding: 0.5rem;
+            background-color: black;
+            color: white;
+            text-align: center;
+    }
+    }
+    @media(min-width:992px){
+        .cnt{
+        margin-top:5%;
+    }
+    .p1{
+        text-align:left;
+    }
+    .p2{
+    margin-top:-10%;
+    text-align:right;
+    }
+    .pn1{
+        border-width:2px;
+        width:47%;
+        margin-top:20%;
+        margin-bottom:5%;
+        margin-left:30%;
+    }
+    
+    .panel-heading{
+            text-align: center;
+            font-size: 150%;
+        }
+    .btn-outline-primary{
+            
+            color: darkcyan;
+            border-color: darkcyan;
+            background-color: white;
+    }
+    .btn-outline-primary:hover{
+            background-color: darkcyan;
+            color: white;
+    }
+    footer{
+            position: fixed;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            padding: 0.5rem;
+            background-color: black;
+            color: white;
+            text-align: center;
+    }
+    }  
+    @media(min-width: 1200px){
+    .p1{
+        text-align:left;
+    }
+    .p2{
+    margin-top:-6%;
+    text-align:right;
+    }
+    .pn1{
+        border-width:2px;
+        width:47%;
+        margin-top:0%;
+        margin-bottom:5%;
+    
+    }
+    
+    .panel-heading{
+            text-align: center;
+            font-size: 150%;
+        }
+    .btn-outline-primary{
+            
+            color: darkcyan;
+            border-color: darkcyan;
+            background-color: white;
+    }
+    .btn-outline-primary:hover{
+            background-color: darkcyan;
+            color: white;
+    }
+    footer{
+            position: fixed;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            padding: 0.5rem;
+            background-color: black;
+            color: white;
+            text-align: center;
+    }
+    }
